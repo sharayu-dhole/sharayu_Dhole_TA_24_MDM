@@ -1,75 +1,11 @@
 # sharayu_Dhole_TA_24_MDM
 
-Student Resource Hub – A Centralized Academic Support System
-1️⃣ Introduction
+A Movie Recommendation System is a web-based application that suggests movies to users based on their interests and preferences. Recommendation systems are widely used by platforms like Netflix and Amazon to help users discover relevant content from a large collection of movies or products.
 
-Student Resource Hub is a web-based educational platform designed to provide students with easy access to academic materials and study management tools in one centralized location. In today’s digital era, students often struggle to find organized study resources, previous year question papers, and proper study planning guidance. This website aims to solve that problem by creating a structured, simple, and user-friendly platform.
+The objective of this project is to design a simple movie recommendation interface that displays suggested movies along with their posters, titles, and genres. The system is implemented using HTML and CSS, where HTML is used to create the structure of the webpage and CSS is used to style and arrange the elements.
 
-The system is developed using HTML for structuring the content and CSS for styling and enhancing the visual appearance. It is a static website designed with a clean layout, modern interface, and responsive elements to improve user experience.
+The webpage contains a search box where users can enter a movie name and a recommendation section that displays movie cards. Each card includes a movie poster, movie title, and genre, which makes the interface visually appealing and easy to understand.
 
-2️⃣ Objective of the Project
+The output of the system is a webpage showing recommended movies in a card layout, demonstrating how recommendation systems present results to users in a clear and organized way.
 
-The main objectives of the Student Resource Hub are:
 
-To provide subject-wise academic notes in one place
-
-To make previous year question papers easily accessible
-
-To help students create and manage their study schedules
-
-To offer useful study tips and motivational guidance
-
-To design a simple and interactive educational website
-
-The goal is to reduce confusion and save time for students by organizing all important academic resources under one platform.
-
-3️⃣ Key Features of the Website
-📚 1. Subject Notes Section
-
-This section provides categorized study materials such as:
-
-Mathematics Notes
-
-Science Notes
-
-Computer Science Notes
-
-Students can quickly access relevant subjects without searching multiple sources.
-
-📝 2. Previous Year Question Papers
-
-This section includes past examination papers that help students:
-
-Understand exam patterns
-
-Practice important questions
-
-Improve time management skills
-
-It supports better exam preparation.
-
-📅 3. Study Planner
-
-The Study Planner section encourages students to:
-
-Create daily study schedules
-
-Track their learning progress
-
-Maintain discipline and consistency
-
-Proper planning improves productivity and reduces exam stress.
-
-💡 4. Study Tips Section
-
-This section provides useful guidance such as:
-
-Time management techniques
-
-Revision strategies
-
-Importance of mock tests
-
-Staying motivated during exams
-
-It supports both academic and mental growth.
